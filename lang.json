@@ -18,6 +18,9 @@
             "MAIN":"      เขียน !help เพื่อ แสดงคำสั่งที่มีอยู่       ",
             "HELP":"\\x1b[38;5;196m.::. \\x1b[38;5;160mหน้าต่าง คำสั่ง \\x1b[38;5;196m.::.  \\x1b[38;5;197m.:: \\x1b[38;5;160mคำสั่งโจมตี \\x1b[38;5;197m::.\\n \\x1b[38;5;70m!cls เพื่อล้างหน้าต่างเก่า     \\x1b[38;5;112m!methods เพื่อแสดงวิธีที่มี\\n\\n\\x1b[38;5;198m.:: \\x1b[38;5;160mตรวจเป้าหมาย คำสั่ง \\x1b[38;5;198m::.\\n \\x1b[38;5;76m!paping เพื่อใช้ping ทดสอบ\\n \\x1b[38;5;77m!scan   เพื่อหาportในการโจมตี\\x1b[0m"
         },
+        "METHODS":{
+            "BROWSER":"\\x1b[38;5;196mBROWSER \\x1b[38;5;76m<\\x1b[38;5;226mlink\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mเวลา\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mthread\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mประเภทของคำร้องขอ\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mประเภทproxy\\x1b[38;5;76m>\\n\\n   \\x1b[38;5;76m<\\x1b[38;5;226mlink\\x1b[38;5;76m> \\x1b[38;5;81mเป้าหมาย\\n   \\x1b[38;5;76m<\\x1b[38;5;226mประเภทของคำร้องขอ\\x1b[38;5;76m> \\x1b[38;5;81mกำหนดประเภทของคำร้องขอ ตัวอย่าง GET, POST, HEAD\\n   \\x1b[38;5;76m<\\x1b[38;5;226mประเภทของproxy\\x1b[38;5;76m> \\x1b[38;5;81mแค่ SOCKS4, SOCKS5, HTTP, HTTPS\\n\\n\\x1b[38;5;81mตัวอย่าง\\n\\x1b[38;5;196mBROWSER \\x1b[38;5;76mhttps://1.1.1.1 20 20 GET SOCKS5\\x1b[38;5;0m"
+        },
         "PING":{
             "OK":"เชื่อมต่อไปยัง [%s:%s] เวลา=%s ms โปรโตคอล=%s port=%s",
             "NO":"ไม่สามารถ เชื่อมต่อได้ [%s:%s]",
@@ -41,6 +44,9 @@
             "ATTACK":"          ATTACK SENT        ",
             "MAIN":"         Type !help for show list command         ",
             "HELP":"\\x1b[38;5;196m.::. \\x1b[38;5;160mINTERFACE COMMAND \\x1b[38;5;196m.::.  \\x1b[38;5;197m.:: \\x1b[38;5;160mATTACKS COMMAND \\x1b[38;5;197m::.\\n \\x1b[38;5;70m!cls for clear interface     \\x1b[38;5;112m!methods for display methods\\n\\n\\x1b[38;5;198m.:: \\x1b[38;5;160mCHECK-HOST COMMAND \\x1b[38;5;198m::.\\n \\x1b[38;5;76m!paping for ping test target\\n \\x1b[38;5;77m!scan   for scanning port\\x1b[0m"
+        },
+        "METHODS":{
+            "BROWSER":"\\x1b[38;5;196mBROWSER \\x1b[38;5;76m<\\x1b[38;5;226mlink\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mtime\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mthread\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mmethods-http\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mproxy-type\\x1b[38;5;76m>\\n\\n   \\x1b[38;5;76m<\\x1b[38;5;226mlink\\x1b[38;5;76m> \\x1b[38;5;81mTARGET\\n   \\x1b[38;5;76m<\\x1b[38;5;226mmethods-http\\x1b[38;5;76m> \\x1b[38;5;81mList of HTTP METHODS example GET, POST, HEAD\\n   \\x1b[38;5;76m<\\x1b[38;5;226mproxy-type\\x1b[38;5;76m> \\x1b[38;5;81mONLY SOCKS4, SOCKS5, HTTP, HTTPS\\n\\n\\x1b[38;5;81mExample\\n\\x1b[38;5;196mBROWSER \\x1b[38;5;76mhttps://1.1.1.1 20 20 GET SOCKS5\\x1b[38;5;0m"
         },
         "PING":{
             "OK":"Connection to [%s:%s] time=%s ms protocol=%s port=%s",
@@ -66,6 +72,9 @@
             "MAIN":"    Nhập !help để hiển thị danh sách các lệnh     ",
             "HELP":"\\x1b[38;5;196m.::. \\x1b[38;5;160mLỆNH GIAO DIỆN \\x1b[38;5;196m.::.  \\x1b[38;5;197m.:: \\x1b[38;5;160mLỆNH TẤN CÔNG \\x1b[38;5;197m::.\\n \\x1b[38;5;70m!cls để xóa giao diện     \\x1b[38;5;112m!methods để hiển thị phương pháp \\n\\n\\x1b[38;5;198m.:: \\x1b[38;5;160mLỆNH KIỂM TRA MÁY CHỦ \\x1b[38;5;198m::.\\n \\x1b[38;5;76m!paping để kiểm tra ping đến mục tiêu\\n \\x1b[38;5;77m!scan   để quét cổng\\x1b[0m"
         },
+        "METHODS": {
+        "BROWSER": "\\x1b[38;5;196mTRÌNH DUYỆT \\x1b[38;5;76m<\\x1b[38;5;226mlink\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mthời gian\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226msố luồng\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mphương thức-http\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mloại proxy\\x1b[38;5;76m>\\n\\n   \\x1b[38;5;76m<\\x1b[38;5;226mlink\\x1b[38;5;76m> \\x1b[38;5;81mMỤC TIÊU\\n   \\x1b[38;5;76m<\\x1b[38;5;226mphương thức-http\\x1b[38;5;76m> \\x1b[38;5;81mDanh sách các PHƯƠNG THỨC HTTP ví dụ như GET, POST, HEAD\\n   \\x1b[38;5;76m<\\x1b[38;5;226mloại proxy\\x1b[38;5;76m> \\x1b[38;5;81mCHỈ SOCKS4, SOCKS5, HTTP, HTTPS\\n\\n\\x1b[38;5;81mVí dụ\\n\\x1b[38;5;196mTRÌNH DUYỆT \\x1b[38;5;76mhttps://1.1.1.1 20 20 GET SOCKS5\\x1b[38;5;0m"
+        },
         "PING":{
             "OK":"Kết nối tới [%s:%s] thời gian=%s ms giao thức=%s cổng=%s",
             "NO":"Hết thời gian kết nối tới [%s:%s]",
@@ -89,6 +98,9 @@
             "ATTACK":"       الهجوم يتم إرساله     ",
             "MAIN":"           اكتب !help لعرض قائمة الأوامر          ",
             "HELP":"\\x1b[38;5;196m.::. \\x1b[38;5;160mأوامر الواجهة \\x1b[38;5;196m.::.  \\x1b[38;5;197m.:: \\x1b[38;5;160mأوامر الهجمات \\x1b[38;5;197m::.\\n \\x1b[38;5;70m!cls لمسح الواجهة     \\x1b[38;5;112m!methods لعرض الأساليب \\n\\n\\x1b[38;5;198m.:: \\x1b[38;5;160mأوامر فحص المضيف \\x1b[38;5;198m::.\\n \\x1b[38;5;76m!paping لاختبار عملية بينغ للهدف\\n \\x1b[38;5;77m!scan   لفحص المنافذ\\x1b[0m"
+        },
+        "METHODS": {
+            "BROWSER": "\\x1b[38;5;196mالمتصفح \\x1b[38;5;76m<\\x1b[38;5;226mالرابط\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mالوقت\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mالمواضيع\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mطريقة-http\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mنوع الوكيل\\x1b[38;5;76m>\\n\\n   \\x1b[38;5;76m<\\x1b[38;5;226mالرابط\\x1b[38;5;76m> \\x1b[38;5;81mالهدف\\n   \\x1b[38;5;76m<\\x1b[38;5;226mطريقة-http\\x1b[38;5;76m> \\x1b[38;5;81mقائمة بأساليب HTTP مثل GET، POST، HEAD\\n   \\x1b[38;5;76m<\\x1b[38;5;226mنوع الوكيل\\x1b[38;5;76m> \\x1b[38;5;81mفقط SOCKS4، SOCKS5، HTTP، HTTPS\\n\\n\\x1b[38;5;81mمثال\\n\\x1b[38;5;196mالمتصفح \\x1b[38;5;76mhttps://1.1.1.1 20 20 GET SOCKS5\\x1b[38;5;0m"
         },
         "PING":{
             "OK":"الاتصال ب [%s:%s] الوقت=%s ميلي ثانية البروتوكول=%s البورت=%s",
