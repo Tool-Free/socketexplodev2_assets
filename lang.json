@@ -1,0 +1,99 @@
+{
+    "TH":{
+        "CHECK_MSG":
+        {
+            "REPORT":"ตรวจเจออัปเดตใหม่",
+            "UPDATE":"กำลังอัปเดตผ่านเน็ต %s",
+            "DEFAULT":"กำลังรัน ระบบ",
+            "SHUTDOWN":"เครื่องมือนี้ถูกปิดการใช้งานชั่วคราว . . ."
+        },
+        "LOG":{
+            "SAME":"%s ขอโทษเนื่องไฟล์นี้้ถูกอัปเดตแล้ว",
+            "DONE":"อัปเดตระบบเสร็จแล้ว",
+            "LANG":"กำลังแปลภาษา %s",
+            "FINISH":"แปลภาษา เสร็จแล้ว"
+        },
+        "DISPLAY":{
+            "ATTACK":"           กำลังยิง          ",
+            "MAIN":"      เขียน !help เพื่อ แสดงคำสั่งที่มีอยู่       ",
+            "HELP":".::. หน้าต่างของคำสั่ง .::.  .:: คำสั่งโจมตี ::.\n .cls เพื่อล้างหน้าต่างเก่า     .methods เพื่อแสดงวิธีที่มี\n\n.:: ตรวจเป้าหมาย คำสั่ง ::.\n .paping เพื่อใช้ping ทดสอบ\n .scan   เพื่อหาportในการโจมตี"
+        },
+        "PING":{
+            "OK":"เชื่อมต่อไปยัง [%s:%s] เวลา=%s ms โปรโตคอล=%s port=%s",
+            "NO":"ไม่สามารถ เชื่อมต่อได้ [%s:%s]",
+            "OPEN":"เปิด  [%s]"
+        }
+    },
+    "EN":{
+        "CHECK_MSG":{
+            "REPORT":"Found update system",
+            "UPDATE":"Trying Download to UPDATE %s",
+            "DEFAULT":"System was running soon",
+            "SHUTDOWN":"This tool has been temporarily disabled . . ."
+        },
+        "LOG":{
+            "SAME":"%s This file have been update before",
+            "DONE":"Done Update SYSTEM",
+            "LANG":"Trying TRANSLATE %s",
+            "FINISH":"Done TRANSLATE"
+        },
+        "DISPLAY":{
+            "ATTACK":"          ATTACK SENT        ",
+            "MAIN":"         Type !help for show list command         ",
+            "HELP":".::. INTERFACE COMMAND .::.  .:: ATTACKS COMMAND ::.\n .cls for clear interface     .methods for display methods\n\n.:: CHECK-HOST COMMAND ::.\n .paping for ping test target\n .scan   for scanning port"
+        },
+        "PING":{
+            "OK":"Connection to [%s:%s] time=%s ms protocol=%s port=%s",
+            "NO":"Connection Timeout [%s:%s]",
+            "OPEN":"Open [%s]"
+        }
+    },
+    "VN":{
+        "CHECK_MSG":{
+            "REPORT":"Hệ thống cập nhật được tìm thấy",
+            "UPDATE":"Đang thử tải xuống cập nhật %s",
+            "DEFAULT":"Hệ thống sẽ được chạy sớm",
+            "SHUTDOWN":"Công cụ này đã được tạm ngừng . . ."
+        },
+        "LOG":{
+            "SAME":"%s Tập tin này đã được cập nhật trước đó",
+            "DONE":"Hoàn tất cập nhật HỆ THỐNG",
+            "LANG":"Đang cố gắng DỊCH %s",
+            "FINISH":"Hoàn tất DỊCH"
+        },
+        "DISPLAY":{
+            "ATTACK":"         TẤN CÔNG GỬI        ",
+            "MAIN":"    Nhập !help để hiển thị danh sách các lệnh     ",
+            "HELP":".::. LỆNH GIAO DIỆN .::.  .:: LỆNH TẤN CÔNG ::.\n .cls để xóa giao diện     .methods để hiển thị phương pháp\n\n.:: LỆNH KIỂM TRA MÁY CHỦ ::.\n .paping để kiểm tra ping đến mục tiêu\n .scan   để quét cổng"
+        },
+        "PING":{
+            "OK":"Kết nối tới [%s:%s] thời gian=%s ms giao thức=%s cổng=%s",
+            "NO":"Hết thời gian kết nối tới [%s:%s]",
+            "OPEN":"Mở [%s]"
+        }        
+    },
+    "AR":{
+        "CHECK_MSG":{
+            "REPORT":"تم العثور على تحديث النظام",
+            "UPDATE":"محاولة التنزيل للتحديث %s",
+            "DEFAULT":"كان النظام يعمل قريبًا",
+            "SHUTDOWN":"تم تعطيل هذه الأداة مؤقتًا . . ."
+        },
+        "LOG":{
+            "SAME":"%s هذا الملف تم تحديثه من قبل",
+            "DONE":"انتهت عملية تحديث النظام",
+            "LANG":"محاولة ترجمة %s",
+            "FINISH":"انتهت عملية الترجمة"
+        },
+        "DISPLAY":{
+            "ATTACK":"       الهجوم يتم إرساله     ",
+            "MAIN":"           اكتب !help لعرض قائمة الأوامر          ",
+            "HELP":".::. أوامر الواجهة .::.  .:: أوامر الهجمات ::.\n .cls لمسح الواجهة     .methods لعرض الأساليب\n\n.:: أوامر فحص المضيف ::.\n .paping لاختبار عملية بينغ للهدف\n .scan   لفحص المنافذ"
+        },
+        "PING":{
+            "OK":"الاتصال ب [%s:%s] الوقت=%s ميلي ثانية البروتوكول=%s البورت=%s",
+            "NO":"انتهاء مهلة الاتصال [%s:%s]",
+            "OPEN":"افتح [%s]"
+        }        
+    }    
+}
