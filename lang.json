@@ -33,6 +33,39 @@
             "OPEN":"\\x1b[38;5;51mเปิด \\x1b[38;5;75m[\\x1b[38;5;255m%s\\x1b[38;5;75m]\\x1b[0m"
         }
     },
+    "IN":{
+    "CHECK_MSG": {
+        "REPORT": "Ditemukan sistem pembaruan",
+        "UPDATE": "Mencoba Unduh untuk MEMPERBARUI %s",
+        "DEFAULT": "Sistem segera berjalan",
+        "SHUTDOWN": "Alat ini telah dinonaktifkan sementara . . ."
+    },
+    "LOG": {
+        "SAME": "%s File ini sudah diperbarui sebelumnya",
+        "DONE": "Selesai Memperbarui SISTEM",
+        "LANG": "Mencoba MENERJEMAHKAN %s",
+        "FINISH": "Selesai MENERJEMAHKAN"
+    },
+    "DISPLAY": {
+        "ATTACK": "          SERANGAN TERKIRIM        ",
+        "MAIN": "         Ketik !bantuan untuk menampilkan daftar perintah         ",
+        "HELP": "\\x1b[38;5;196m.::. \\x1b[38;5;160mANTARMUKA PERINTAH \\x1b[38;5;196m.::.  \\x1b[38;5;197m.:: \\x1b[38;5;160mPERINTAH SERANGAN \\x1b[38;5;197m::.\\n \\x1b[38;5;70m!cls untuk membersihkan antarmuka     \\x1b[38;5;112m!metode untuk menampilkan metode\\n\\n\\x1b[38;5;198m.:: \\x1b[38;5;160mPERINTAH CHECK-HOST \\x1b[38;5;198m::.\\n \\x1b[38;5;76m!paping untuk uji ping target\\n \\x1b[38;5;77m!pindai   untuk pemindaian port\\x1b[0m"
+    },
+    "METHODS": {
+        "HTTP19": "\\x1b[38;5;45mHTTP-19 \\x1b[38;5;87m<\\x1b[38;5;50m\\x1b[38;5;50mip\\x1b[38;5;87m> \\x1b[38;5;87m<\\x1b[38;5;50m\\x1b[38;5;50mport\\x1b[38;5;87m> \\x1b[38;5;87m<\\x1b[38;5;50m\\x1b[38;5;50mtime\\x1b[38;5;87m> \\x1b[38;5;87m<\\x1b[38;5;50m\\x1b[38;5;50mthread\\x1b[38;5;87m> \\x1b[38;5;87m<\\x1b[38;5;50mbooter\\x1b[38;5;87m> \\x1b[38;5;87m<\\x1b[38;5;50mmetode-http\\x1b[38;5;87m>\\n \\x1b[38;5;87m<\\x1b[38;5;50mmetode-http\\x1b[38;5;87m> jenis metode permintaan menggunakan GET, POST, HEAD ... HAPUS\\n\\x1b[38;5;76mContoh\\n\\x1b[38;5;196m HTTP-19 6.6.6.6 80 250 250 250 POST\\x1b[0m",
+        "HTTPQUERY": "\\x1b[38;5;45mHTTP-QUERY \\x1b[38;5;87m<\\x1b[38;5;50m\\x1b[38;5;50mip\\x1b[38;5;87m> \\x1b[38;5;87m<\\x1b[38;5;50m\\x1b[38;5;50mport\\x1b[38;5;87m> \\x1b[38;5;87m<\\x1b[38;5;50m\\x1b[38;5;50mtime\\x1b[38;5;87m> \\x1b[38;5;87m<\\x1b[38;5;50m\\x1b[38;5;50mthread\\x1b[38;5;87m> \\x1b[38;5;87m<\\x1b[38;5;50mbooter\\x1b[38;5;87m> \\x1b[38;5;87m<\\x1b[38;5;50mmetode-http\\x1b[38;5;87m>\\n \\x1b[38;5;87m<\\x1b[38;5;50mmetode-http\\x1b[38;5;87m> jenis metode permintaan menggunakan GET, POST, HEAD ... HAPUS\\n\\x1b[38;5;76mContoh\\n\\x1b[38;5;196m HTTP-QUERY 6.6.6.6 80 250 250 250 POST\\x1b[0m",
+        "OVHCONNECT": "\\x1b[38;5;76mOVH-CONNECT \\x1b[38;5;76m<\\x1b[38;5;106mip\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;106mport\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;106mtime\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;106mthread\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;106mbooter\\x1b[38;5;76m>\\n\\x1b[38;5;226mContoh\\n\\x1b[38;5;196m OVH-CONNECT 45.55.133.56 80 250 250 250\\x1b[0m",
+        "OVHRPS": "\\x1b[38;5;76mOVH-RPS \\x1b[38;5;76m<\\x1b[38;5;106mip\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;106mport\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;106mtime\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;106mthread\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;106mbooter\\x1b[38;5;76m>\\n\\x1b[38;5;226mContoh\\n\\x1b[38;5;196m OVH-RPS 45.55.133.56 80 250 250 250\\x1b[0m",
+        "HANDSHAKE": "\\x1b[38;5;196mHANDSHAKE \\x1b[38;5;226m<\\x1b[38;5;255mtautan\\x1b[38;5;226m> \\x1b[38;5;226m<\\x1b[38;5;255mtime\\x1b[38;5;226m> \\x1b[38;5;226m<\\x1b[38;5;255mthread\\x1b[38;5;226m> \\x1b[38;5;226m<\\x1b[38;5;255mmetode-http\\x1b[38;5;226m>\\n \\x1b[38;5;226m<\\x1b[38;5;255mtautan\\x1b[38;5;226m> masukkan target Anda\\n \\x1b[38;5;226m<\\x1b[38;5;255mmetode-http\\x1b[38;5;226m> masukkan jenis metode permintaan\\n\\n\\x1b[38;5;76mContoh\\n\\x1b[38;5;105mHANDSHAKE https://1.1.1.1 250 250 GET\\x1b[0m",
+        "BROWSER": "\\x1b[38;5;196mBROWSER \\x1b[38;5;76m<\\x1b[38;5;226mtautan\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mtime\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mthread\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mmetode-http\\x1b[38;5;76m> \\x1b[38;5;76m<\\x1b[38;5;226mtipe-proxy\\x1b[38;5;76m>\\n\\n   \\x1b[38;5;76m<\\x1b[38;5;226mtautan\\x1b[38;5;76m> \\x1b[38;5;81mTARGET\\n   \\x1b[38;5;76m<\\x1b[38;5;226mmetode-http\\x1b[38;5;76m> \\x1b[38;5;81mDaftar METODE HTTP contoh GET, POST, HEAD\\n   \\x1b[38;5;76m<\\x1b[38;5;226mtipe-proxy\\x1b[38;5;76m> HANYA SOCKS4, SOCKS5, HTTP, HTTPS, NONE\\n\\n\\x1b[38;5;81mContoh\\n\\x1b[38;5;196mBROWSER \\x1b[38;5;76mhttps://1.1.1.1 20 20 GET SOCKS5\\x1b[38;5;0m"
+    },
+    "INSTALL": "\\x1b[35;8;196mMencoba menginstal --> %s\\x1b[0m",
+    "PING": {
+        "OK": "\\x1b[38;5;74mKoneksi ke \\x1b[38;5;75m%s \\x1b[38;5;76mwaktu\\x1b[38;5;255m=\\x1b[38;5;77m%s ms \\x1b[38;5;76mprotokol\\x1b[38;5;255m=\\x1b[38;5;78m%s \\x1b[38;5;76mport\\x1b[38;5;255m=\\x1b[38;5;79m%s\\x1b[0m",
+        "NO": "\\x1b[38;5;196mKoneksi \\x1b[38;5;197mTime out \\x1b[38;5;225m[\\x1b[38;5;196m%s\\x1b[38;5;225m:\\x1b[38;5;197m%s\\x1b[38;5;225m]\\x1b[0m",
+        "OPEN": "\\x1b[38;5;51mTERBUKA \\x1b[38;5;75m[\\x1b[38;5;255m%s\\x1b[38;5;75m]\\x1b[0m"
+    }
+    },
     "EN":{
         "CHECK_MSG":{
             "REPORT":"Found update system",
