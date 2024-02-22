@@ -48,7 +48,7 @@
     },
     "DISPLAY": {
         "ATTACK": "          SERANGAN TERKIRIM        ",
-        "MAIN": "         Ketik !bantuan untuk menampilkan daftar perintah         ",
+        "MAIN": " Ketik !bantuan untuk menampilkan daftar perintah ",
         "HELP": "\\x1b[38;5;196m.::. \\x1b[38;5;160mANTARMUKA PERINTAH \\x1b[38;5;196m.::.  \\x1b[38;5;197m.:: \\x1b[38;5;160mPERINTAH SERANGAN \\x1b[38;5;197m::.\\n \\x1b[38;5;70m!cls untuk membersihkan antarmuka     \\x1b[38;5;112m!metode untuk menampilkan metode\\n\\n\\x1b[38;5;198m.:: \\x1b[38;5;160mPERINTAH CHECK-HOST \\x1b[38;5;198m::.\\n \\x1b[38;5;76m!paping untuk uji ping target\\n \\x1b[38;5;77m!pindai   untuk pemindaian port\\x1b[0m"
     },
     "METHODS": {
