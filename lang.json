@@ -1,5 +1,6 @@
 {
     "TH":{
+        "LANG":"TH",
         "CHECK_MSG":
         {
             "REPORT":"ตรวจเจออัปเดตใหม่",
@@ -34,6 +35,7 @@
         }
     },
     "IN":{
+    "LANG":"IN",
     "CHECK_MSG": {
         "REPORT": "Ditemukan sistem pembaruan",
         "UPDATE": "Mencoba Unduh untuk MEMPERBARUI %s",
@@ -67,6 +69,7 @@
     }
     },
     "EN":{
+        "LANG":"EN",
         "CHECK_MSG":{
             "REPORT":"Found update system",
             "UPDATE":"Trying Download to UPDATE %s",
@@ -100,6 +103,7 @@
         }
     },
     "VN":{
+        "LANG":"VN",
         "CHECK_MSG":{
             "REPORT":"Hệ thống cập nhật được tìm thấy",
             "UPDATE":"Đang thử tải xuống cập nhật %s",
@@ -133,6 +137,7 @@
         }        
     },
     "AR":{
+        "LANG":"AR",
         "CHECK_MSG":{
             "REPORT":"تم العثور على تحديث النظام",
             "UPDATE":"محاولة التنزيل للتحديث %s",
