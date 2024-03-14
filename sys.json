@@ -1,6 +1,6 @@
 {
   "FIX":{
-    "MURD-OPT":"yes"
+    "MURD-OPT":"yes",
     "HANDSHAKE2":"yes"
   }
 }
