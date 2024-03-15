@@ -1,11 +1,7 @@
 {
   "FIX":{
-    "MURD-OPT":"yes",
     "HANDSHAKE2":"yes",
-    "HANDSHAKE":"yes",
-    "HTTP-11":"yes",
-    "AMP":"yes",
-    "BROWSER":"yes"
+    "AMP":"yes"
   },
   "LANG":{
     "IN":"Maaf, metode %s ini sedang dalam perawatan.",
