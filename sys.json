@@ -6,5 +6,12 @@
     "HTTP-11":"yes",
     "AMP":"yes",
     "BROWSER":"yes"
+  },
+  "LANG":{
+    "IN":"Maaf, metode %s ini sedang dalam perawatan.",
+    "AR":"عذرًا، هذه الطريقة %s تحت الصيانة.",
+    "VN":"Xin lỗi, phương thức %s này đang được bảo trì.",
+    "EN":"Sorry this %s method has maintenance.",
+    "TH":"ขอโทษ %s วิธีการนี้ยังอยู่ในการซ่อมบำรุง."
   }
 }
