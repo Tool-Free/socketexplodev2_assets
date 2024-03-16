@@ -6,6 +6,7 @@
     "banner.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/banner.py",
     "methods/RAPID_FAST.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/RAPID_FAST.py",
     "methods/OVH_RPS.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/OVH_RPS.py",
-    "methods/OVH_CONNECT.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/OVH_CONNECT.py"
+    "methods/OVH_CONNECT.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/OVH_CONNECT.py",
+    "methods/TCP_RESET.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/TCP_RESET.py"
   }
 }
