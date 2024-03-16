@@ -1,7 +1,5 @@
 {
-  "FIX":{
-    "OVH-RPS":"yes",
-    "OVH-CONNECT":"yes"
+  "FIX":{"NULL":"NULL"
   },
   "LANG":{
     "IN":"Maaf, metode %s ini sedang dalam perawatan.",
