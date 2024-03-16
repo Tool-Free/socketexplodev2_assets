@@ -1,7 +1,7 @@
 {
   "FIX":{
-    "HANDSHAKE2":"yes",
-    "AMP":"yes"
+    "OVH-RPS":"yes",
+    "OVH-CONNECT":"yes"
   },
   "LANG":{
     "IN":"Maaf, metode %s ini sedang dalam perawatan.",
