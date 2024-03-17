@@ -1,5 +1,5 @@
 {
-  "FIX":{"NULL":"NULL"
+  "FIX":{"HTTP-QUERY":"TRUE"
   },
   "LANG":{
     "IN":"Maaf, metode %s ini sedang dalam perawatan.",
