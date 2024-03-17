@@ -1,5 +1,8 @@
 {
-  "FIX":{"HTTP-QUERY":"TRUE"
+  "FIX":{
+    "HTTP-QUERY":"TRUE",
+    "OVH-RPS":"YES",
+    "OVH-CONNECT":"YES"
   },
   "LANG":{
     "IN":"Maaf, metode %s ini sedang dalam perawatan.",
