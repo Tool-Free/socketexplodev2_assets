@@ -1,7 +1,6 @@
 {
   "FIX":{
-    "HANDSHAKE":"TRUE",
-    "HANDSHAKE2":"YES"
+    "NULL":"NULL"
   },
   "LANG":{
     "IN":"Maaf, metode %s ini sedang dalam perawatan.",
