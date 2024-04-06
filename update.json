@@ -9,6 +9,6 @@
     "Cache_rank.txt":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/Cache_rank.txt"
   },
   "PIP":{
-    "humanize":"pip install humanize"
+    "humanize":{"command":"pip install humanize","import":"import humanize"}
   }
 }
