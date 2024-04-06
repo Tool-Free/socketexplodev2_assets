@@ -7,5 +7,8 @@
     "methods/HYBRID.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/HYBRID.py",
     "Cache.txt":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/Cache.txt",
     "Cache_rank.txt":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/Cache_rank.txt"
+  },
+  "PIP":{
+    "humanize":"pip install humanize"
   }
 }
