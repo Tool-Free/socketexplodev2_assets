@@ -9,6 +9,9 @@
     "Cache_rank.txt":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/Cache_rank.txt"
   },
   "PIP":{
-    "humanize":{"command":"pip install humanize","import":"import humanize"}
+    "humanize":{"command":"pip install humanize","import":"import humanize"},
+    "socks":{"command":"pip install PySocks","import":"import socks"},
+    "requests":{"command":"pip install requests","import":"import requests"},
+    "h2":{"command":"pip install h2","import":"import h2"}
   }
 }
