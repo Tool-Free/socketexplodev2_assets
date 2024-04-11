@@ -5,6 +5,12 @@
     "gui.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/gui.py",
     "banner.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/banner.py",
     "methods/HYBRID.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/HYBRID.py",
+    "methods/CONNECT.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/CONNECT.py",
+    "methods/COOKIE.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/COOKIE.py",
+    "methods/MURD.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/MURD.py",
+    "methods/MURD_OPT.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/MURD_OPT.py",
+    "methods/MURD_PROXY.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/MURD_PROXY.py",
+    "methods/RAPID_FAST.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/RAPID_FAST.py",
     "Cache.txt":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/Cache.txt",
     "Cache_rank.txt":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/Cache_rank.txt"
   },
