@@ -33,6 +33,7 @@
     "humanize":{"command":"pip install humanize","import":"import humanize"},
     "socks":{"command":"pip install PySocks","import":"import socks"},
     "requests":{"command":"pip install requests","import":"import requests"},
-    "h2":{"command":"pip install h2","import":"import h2"}
+    "h2":{"command":"pip install h2","import":"import h2"},
+    "fake-useragent":{"command":"pip install fake-useragent","import":"import fake_useragent"}
   }
 }
