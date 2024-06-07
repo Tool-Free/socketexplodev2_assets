@@ -8,7 +8,8 @@
     "Cache.txt":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/Cache.txt",
     "Cache_rank.txt":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/Cache_rank.txt",
     "methods/STOP.txt":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/STOP.txt",
-    "methods/MODEL/data.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/MODEL/data.py"
+    "methods/MODEL/data.py":"https://raw.githubusercontent.com/Hex1629/SOCKETEXPLODEv2_DOSTOOL/main/methods/MODEL/data.py",
+    "AES.py":"https://raw.githubusercontent.com/Hex1629/AES-TEST/main/main.py"
 
   },
   "PIP":{
@@ -16,6 +17,8 @@
     "socks":{"command":"pip install PySocks","import":"import socks"},
     "requests":{"command":"pip install requests","import":"import requests"},
     "h2":{"command":"pip install h2","import":"import h2"},
-    "fake-useragent":{"command":"pip install fake-useragent","import":"import fake_useragent"}
+    "fake-useragent":{"command":"pip install fake-useragent","import":"import fake_useragent"},
+    "pycryptodome":{"command":"pip install pycryptodome","import":"import Crypto"},
+    "cryptography":{"command":"pip install cryptography","import":"import cryptography"}
   }
 }
